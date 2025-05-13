@@ -1,3 +1,7 @@
+# Welcome to My StudyCase Cypress
+
+Hi! I'm Isno Wahno Putro. This is the result of a cypress automation testing script that I made for a job search website.
+
 ## Objective
 
 From the automation scipt made I have 2 test objectives, namely:
